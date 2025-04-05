@@ -1,8 +1,6 @@
 # 💫 About Me:
 Aspiring Web Developer
 
-Colossians 3:23 – Work with All Your Heart. "Whatever you do, work at it with all your heart
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/petsyy16/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/peter-arenas-1a51bb2a2/) 
