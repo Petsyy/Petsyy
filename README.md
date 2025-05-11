@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Fullstack Web Developer
+Aspiring Fullstack Developer
 
 
 ## 🌐 Socials:
