@@ -1,4 +1,6 @@
 # 💫 About Me:
+3rd Year Student
+
 Aspiring Fullstack Developer
 
 ## 🌐 Socials:
