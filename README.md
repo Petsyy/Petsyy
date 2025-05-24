@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd Year Student
+Incoming 3rd Year Student
 
 Aspiring Fullstack Developer
 
