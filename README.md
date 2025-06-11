@@ -7,7 +7,7 @@ Hello, I'm Peter Arenas. I'm an aspiring web developer with a passion for creati
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,kotlin,php,laravel,tailwind,mysql,figma,git,)](https://skillicons.dev)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Petsyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Petsyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Petsyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
