@@ -4,7 +4,7 @@ Hello, I'm Peter Arenas. I'm an aspiring web developer with a passion for creati
 
 
 # Skills & Expertise
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,kotlin,php,laravel,tailwind,mysql,figma,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,kotlin,php,laravel,tailwind,mysql,figma,git,github)](https://skillicons.dev)
 
 # GitHub Stats
 
