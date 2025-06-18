@@ -1,6 +1,6 @@
 # About Me
 
-"Hi, I'm Peter Arenas, an aspiring web developer with a strong interest in building interactive and user-friendly websites. I'm currently learning the core fundamentals of web development and excited to grow my skills in both front-end and back-end technologies."
+Hi, I'm Peter Aremas, an Aspiring Web developer with a passion for building clean, user-friendly websites and applications. I'm currently exploring the fundamentals of web development, including design principles, responsive layouts, and modern tools that bring ideas to life on the web.
 
 # Skills & Expertise
 
