@@ -7,7 +7,6 @@ Hi, I'm Peter Aremas, an Aspiring Web developer with a passion for building clea
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,kotlin,react,laravel,mysql,git,github)](https://skillicons.dev)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Petsyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Petsyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Petsyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
