@@ -4,5 +4,11 @@ Hi, I'm Peter Arenas, an Aspiring Web developer with a passion for building clea
 
 # Skills & Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,kotlin,react,laravel,mysql,git,github)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,react,laravel,mysql,git,github" />
+  </a>
+</p>
+
+
 [![](https://visitcount.itsvg.in/api?id=Petsyy&icon=0&color=0)](https://visitcount.itsvg.in)
