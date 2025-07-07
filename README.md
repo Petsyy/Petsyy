@@ -6,7 +6,7 @@ Hello, I'm Peter Arenas, an Aspiring Web Developer with a passion for building c
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,react,laravel,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,react,laravel,mysql,git" />
   </a>
 </p>
 
