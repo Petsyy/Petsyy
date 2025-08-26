@@ -1,7 +1,7 @@
 <div align="center">
 
 # About Me
-Hello, I'm **Peter Arenas** an **Aspiring Web Developer** with a passion for building clean, user-friendly websites and applications.  
+Hello 🤗, I'm **Peter Arenas** an **Aspiring Web Developer** with a passion for building clean, user-friendly websites and applications.  
 I'm currently exploring the fundamentals of web development, including design principles, responsive layouts, and modern tools that bring ideas to life on the web.
 
 # Skills & Expertise
