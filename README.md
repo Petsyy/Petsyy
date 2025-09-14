@@ -7,7 +7,7 @@ I'm currently exploring the fundamentals of web development, including design pr
 # Skills & Expertise
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,react,laravel,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,react,express,laravel,mysql,git" />
   </a>
 </p>
 
