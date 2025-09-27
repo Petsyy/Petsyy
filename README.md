@@ -6,7 +6,7 @@ I'm **Aspiring Web Developer** with a passion for building clean, user-friendly 
 # Skills & Expertise
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,kotlin,mongodb,express,react,nodejs,tailwind,laravel,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=js,php,kotlin,mongodb,express,react,nodejs,tailwind,laravel,mysql,git" />
   </a>
 </p>
 
